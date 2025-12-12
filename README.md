@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.jpg" alt="Sudoku Game Banner" />
+  <img src="assets/banner.jpg" alt="Sudoku Game Banner" />
 </p>
 
 <p align="center">
@@ -121,4 +121,5 @@ Create a clean, portfolio-ready Python project
 
 
 This project is licensed under the MIT License.
+
 
