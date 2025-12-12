@@ -1,13 +1,3 @@
-<p align="center">
-  <img src="assets/banner.jpg" alt="Sudoku Game Banner" />
-</p>
-
-<p align="center">
-  <b>author — kashish-238</b>
-</p>
-
----
-
 # 🧩 Sudoku Game
 
 A **playable Sudoku game** built with **Python and Pygame**, combining manual gameplay with an **AI-powered DFS backtracking solver**.
@@ -121,5 +111,6 @@ Create a clean, portfolio-ready Python project
 
 
 This project is licensed under the MIT License.
+
 
 
