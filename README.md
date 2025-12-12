@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" alt="Sudoku Game Banner" />
+  <img src="banner.jpg" alt="Sudoku Game Banner" />
 </p>
 
 <p align="center">
@@ -118,5 +118,6 @@ Combine manual gameplay with AI-assisted solving
 Create a clean, portfolio-ready Python project
 
 📜 License
+
 
 This project is licensed under the MIT License.
